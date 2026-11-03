@@ -1,5 +1,4 @@
-# FuturesLab — Regime-Aware Futures Strategy
-
+Quantitative Futures Trading & Risk Management
 FuturesLab is a complete, end-to-end quantitative research pipeline exploring regime-adaptive trading strategies across major futures markets (S&P 500, Gold, Crude Oil).
 
 This project was built to demonstrate proficiency in quantitative research, systematic trading, risk management, and Python software engineering, specifically targeting a quantitative internship role.
